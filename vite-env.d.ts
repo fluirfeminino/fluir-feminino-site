@@ -1,1 +1,3 @@
-/// <reference types="vite/client" />
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
